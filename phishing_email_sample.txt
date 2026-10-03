@@ -1,0 +1,23 @@
+PHISHING EMAIL SAMPLE
+
+From: Microsoft Account Security <security-alert@micros0ft-support.example>
+To: user@example.com
+Subject: URGENT: Your Microsoft Account Will Be Suspended!
+
+Date: 3 October 2026
+
+Dear Customer,
+
+We detected unusual login activity on your Microsoft account.
+
+Your account will be permanently suspended within 24 hours unless you
+verify your account immediately.
+
+Please verify your account using the link below:
+
+https://micros0ft-support.example/verify
+
+You must complete the verification now to avoid losing access.
+
+Thank you,
+Microsoft Security Team
